@@ -8,7 +8,7 @@ This project implements and improves a Deep Convolutional Generative Adversarial
 
 | Epoch 20 (Baseline) | Epoch 50 (Improved) | Epoch 100 (Enhanced) |
 |---------------------|---------------------|----------------------|
-| ![Epoch 20](outputs/epoch_020.png) | ![Epoch 50](outputs/epoch_050.png) | ![Epoch 100](outputs/epoch_100.png) |
+| ![Epoch 20](outputs/epoch_20.png) | ![Epoch 50](outputs/epoch_050.png) | ![Epoch 100](outputs/epoch_100.png) |
 
 ---
 
